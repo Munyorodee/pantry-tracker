@@ -29,6 +29,7 @@ const item = [
   'biscuit',
   'roll',
   'tart',
+  
 ] 
 
 const style = {
@@ -39,7 +40,7 @@ const style = {
   width: 400,
   bgcolor: 'white',
   border: '2px solid #000',
-  boxShadow: 24,
+  boxShadow: 14,
   p: 4,
   display: 'flex',
   flexDirection: 'column',
